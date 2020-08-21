@@ -63,7 +63,7 @@
         <isOtherwise>false</isOtherwise>
       </typedDefaultValue>
       <hideColumn>false</hideColumn>
-      <width>100</width>
+      <width>300</width>
       <header>extended npd_attr_50</header>
       <factType>pub_cns_combined_flattened_bre</factType>
       <boundName>outputs</boundName>
@@ -126,11 +126,13 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
+        <valueNumeric>1235002561</valueNumeric>
         <valueString></valueString>
         <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
+        <valueNumeric>8</valueNumeric>
         <valueString></valueString>
         <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
@@ -155,11 +157,13 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
+        <valueNumeric>1235002560</valueNumeric>
         <valueString></valueString>
         <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
+        <valueNumeric>3</valueNumeric>
         <valueString></valueString>
         <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
